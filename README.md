@@ -1,4 +1,12 @@
 ### Hi there 👋
+Nice to meet you!
+
+I am Adedayo Abiodun. I am a beginner programmer.
+
+You can reach me on twitter https://twitter.com/Mr_Sheggs
+
+Looking Forward to meeting you!
+
 
 <!--
 **Sheggs4u/Sheggs4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
